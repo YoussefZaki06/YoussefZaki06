@@ -1,9 +1,32 @@
-<h1 align="center">Hi 👋, I'm Youssef Zaki</h1>
-<h3 align="center">Computer and Data Science Student at Alexandria University</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YoussefZaki06&label=Profile%20views&color=0e75b6&style=flat" alt="YoussefZaki06" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Youssef%20Zaki&fontSize=45&fontAlign=50&fontColor=ffffff" />
 </p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Computer+%26+Data+Science+Student;AI+%7C+Software+%7C+Exploration;Coffee-powered+Quintessence" alt="Typing SVG" />
+</h3>
+
+---
+
+## 🧠 About Me
+
+- 🎓 Alexandria University – Computer and Data Science  
+- 🔭 Currently learning **Java and Python**  
+- ⚗️ Exploring **AI**, **software engineering**, and **data science**  
+- ☕ Instant coffee addict | 🍰 Homemade chaotic tiramisu enjoyer  
+- 🪐 Personality Element: **Quintessence** – Cosmic, curious, unclassified  
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🧠 Orzvorin | Personal AI assistant – eldritch, cold, and all-knowing | `Python`, `FastAPI`, `PyTorch` |
+| 📚 Library System | Java-based library manager with GUI | `Java`, `Swing` |
+| 📊 Market Basket Analysis | Data mining with `arules`, GUI, and clustering | `R`, `Shiny`, `arules` |
+
+> Want to collaborate? DM me on [Twitter](https://x.com/Youssefzakii__) or [LinkedIn](https://www.linkedin.com/in/youssef-zaki-b39b7934a/)
 
 ---
 
@@ -32,5 +55,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/youssef.walid.7509)
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 > ⚡ *“Quintessence in form, I explore, build, and question the digital unknown.”*
