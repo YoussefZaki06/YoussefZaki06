@@ -22,8 +22,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🧠 Orzvorin | Personal AI assistant – eldritch, cold, and all-knowing | `Python`, `FastAPI`, `PyTorch` |
-| 📚 Library System | Java-based library manager with GUI | `Java`, `Swing` |
-| 📊 Market Basket Analysis | Data mining with `arules`, GUI, and clustering | `R`, `Shiny`, `arules` |
+
 
 > Want to collaborate? DM me on [Twitter](https://x.com/Youssefzakii__) or [LinkedIn](https://www.linkedin.com/in/youssef-zaki-b39b7934a/)
 
