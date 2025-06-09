@@ -13,8 +13,7 @@
 - 🎓 Alexandria University – Computer and Data Science  
 - 🔭 Currently learning **Java and Python**  
 - ⚗️ Exploring **AI**, **software engineering**, and **data science**  
-- ☕ Instant coffee addict | 🍰 Homemade chaotic tiramisu enjoyer  
-- 🪐 Personality Element: **Quintessence** – Cosmic, curious, unclassified  
+
 
 ---
 
