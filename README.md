@@ -61,3 +61,7 @@
 </p>
 
 > ⚡ *“Quintessence in form, I explore, build, and question the digital unknown.”*
+> ### 🗓️ GitHub Contribution Graph
+
+[![Youssef's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YoussefZaki06&theme=github-compact)](https://github.com/YoussefZaki06)
+
